@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumarraja
+- 👋 Hi, I’m Kumar Raja Pedagopu
 - 👀 I’m interested in web technologies and computer science.
 - 🌱 I’m currently learning Advance Javascript and Datastructures
 - 💞️ I’m looking to collaborate on ReactJs projects
