@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ReactJs projects
 - 📫 How to reach me 
 - mail: kumar.pedagopu@gmail.com
-- twitter: @kumar_pedagopu
+- linked in: [https://www.linkedin.com/in/kumar-raja-pedagopu](https://www.linkedin.com/in/kumar-raja-pedagopu/) 
+- twitter: [@kumar_pedagopu](https://twitter.com/kumar_pedagopu)
 
 <!---
 kumarraja/kumarraja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
